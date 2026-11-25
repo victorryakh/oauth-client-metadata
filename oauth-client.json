@@ -1,0 +1,15 @@
+{
+  "client_id": "https://victorryakh.github.io/oauth-client-metadata/oauth-client.json",
+  "client_name": "mcporter (zenmoney)",
+  "redirect_uris": [
+    "http://127.0.0.1:8989/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
